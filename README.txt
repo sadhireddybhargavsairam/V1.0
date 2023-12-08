@@ -4,4 +4,7 @@ In here we are gonna read Tempeature from sensor and send the value to kernel ma
 
 
 Hardware used : https://github.com/raayanmini/Raayanmini-Docs.git
+
 Server : http://142.93.218.33/km/weathermonitor.php
+
+Software/complier used : Keil uvision 5.0
